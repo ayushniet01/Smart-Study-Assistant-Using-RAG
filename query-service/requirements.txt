@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pinecone
+openai
+sentence-transformers
+pydantic-settings
+slowapi 
